@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Unofficial api for downloading songs from jiosaavn.com",
   "license": "MIT",
-  "author": "Sumit Kolhe",
+  "author": "Nitz",
   "main": "src/api/index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sumitkolhe/jiosaavn-api"
+    "url": "https://github.com/darc-coder/jio-saavn-api"
   },
   "scripts": {
     "dev": "nodemon",

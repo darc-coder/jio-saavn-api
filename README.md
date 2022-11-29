@@ -28,7 +28,7 @@ An Unofficial JioSaavn API for downloading songs in 320kbps quality for free.
 - Clone the Repo
 
   ```sh
-  git clone https://github.com/sumitkolhe/jiosaavn-api
+  git clone https://github.com/darc-coder/jio-saavn-api
 
   cd jiosaavn-api
   ```

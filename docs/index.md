@@ -29,7 +29,7 @@ icon: rocket
 - Clone the Repo
 
   ```sh
-  git clone https://github.com/sumitkolhe/jiosaavn-api
+  git clone https://github.com/darc-coder/jio-saavn-api
 
   cd jiosaavn-api
   ```
@@ -48,4 +48,4 @@ icon: rocket
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/sumitkolhe/jiosaavn-api/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/darc-coder/jio-saavn-api/blob/main/LICENSE) file for details.
